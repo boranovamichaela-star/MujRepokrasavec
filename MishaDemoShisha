@@ -12,4 +12,6 @@ testujeme lokální změny a jejich propagaci online
 
 Testujeme merge funkcionalitu 
 
+Testujeme konfliktni změnu z feature branche 
+
 Testujeme konflikt merge z vetve feature
